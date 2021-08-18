@@ -1,0 +1,15 @@
+load("@rules_cc//cc:defs.bzl", "cc_library")
+
+package(
+    default_visibility = ["//visibility:public"],
+)
+
+
+cc_library(
+    name = "vastjson_lib",
+    hdrs = glob([
+        "**/*.hpp",
+    ]),
+    copts = ['-std=c++11', '-Ofast', '-Wfatal-errors'],
+    include_prefix = "vastjson",
+)
