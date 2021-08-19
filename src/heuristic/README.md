@@ -3,5 +3,5 @@
 ## OptAMZ.hpp
 - Contains the context, evaluation, neighborhood searches, etc
 
-## mainAMZ.cpp;
+## newmainAMZ.cpp;
 - Contains code that compiles the model-apply and model-build programs, respectively
