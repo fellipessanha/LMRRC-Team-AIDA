@@ -1,9 +1,13 @@
 # LMRRC-Proceedings-AIDA
 
-Repository for the codes used by team AIDA in the Amazon Last Mile Routing Research Challenge
+Repository for the codes used by team AIDA in the Amazon Last Mile Routing Research Challenge (2021).
 
-The repository follows the structure from the challenge, aside from the Docker specific documents and the model build and apply protocols, since our solutions didn't use any of the training time. The Folder Structure is as specified below
+## Outline
 
+The proposal intended to be made as simple as possible, within the perspective of Less Is More Principle.
+It was able to achieve a nice result, performing within the top 20 best candidates.
+
+![top-20](./docs/top-20-aida.png)
 
 # Data
 
