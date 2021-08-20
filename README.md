@@ -7,7 +7,7 @@ Repository for the codes used by team AIDA in the Amazon Last Mile Routing Resea
 The proposal intended to be made as simple as possible, within the perspective of Less Is More Principle.
 It was able to achieve a nice result, performing within the top 20 best candidates.
 
-![top-20](./docs/top-20-aida.png)
+![top-20](./docs/top-20-LMRRC.png)
 
 # Data
 
