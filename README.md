@@ -1,4 +1,4 @@
-# LMRRC-Proceedings-AIDA
+# LMRRC-Team-AIDA
 
 Repository for the codes used by team AIDA in the Amazon Last Mile Routing Research Challenge (2021).
 
